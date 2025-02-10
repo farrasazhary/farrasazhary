@@ -23,7 +23,7 @@ Hi 👋, I'm Farras Azhary<br>A passionate frontend and backend website develope
   <img alt="github-snake" src="https://raw.githubusercontent.com/farrasazhary/farrasazhary/output/github-snake.svg" />
 </picture>
 
---------------
+-------------
 [![](https://visitcount.itsvg.in/api?id=farrasazhary&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ### 💰 You can help me by Donating
